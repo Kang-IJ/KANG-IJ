@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=370&section=header&text=Hello%20there!&fontSize=90&desc=Kang%20IJO%20's%20Github&animation=twinkling&descSize=25&descAlign=65&descAlignY=63)
 
-### <p style="text-align: center">안녕하세요 👋</p>
+### <div align="center">안녕하세요 👋</div>
 
-<p style="text-align: center">Flutter 개발자가 되고싶은 강이조입니다! <br />
+<div align="center">Flutter 개발자가 되고싶은 강이조입니다! <br />
 잘 부탁드립니다! 😊</p>
+</div>
 
-<p style="text-align: center">
+<div align="center">
   <a href="https://velog.io/@rkddl6803" target="_blank">
     <img src="https://img.shields.io/badge/blog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
@@ -14,34 +15,37 @@
   </a>
   <br />
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKang-IJ&count_bg=%23AAAAAA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
-</p>
+</div>
 
 <br />
-<p style="text-align: center; font-weight: bold;">🛠 프로그래밍 언어 ⚒</p>
-<p style="text-align: center">
+<div align="center">🛠 프로그래밍 언어 ⚒</div>
+<br />
+<div align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</p>
+</div>
 <br />
 
-<p style="text-align: center; font-weight: bold;">🛠 프레임워크 ⚒</p>
+<div align="center">🛠 프레임워크 ⚒</div>
+<br />
 
-<p style="text-align: center">
+<div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=black">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-</p>
+</div>
 <br />
-<p style="text-align: center; font-weight: bold;">🛠 사용해 본 적 있는 언어 ⚒</p>
-<p style="text-align: center">
+<div align="center">🛠 사용해 본 적 있는 언어 ⚒</div>
+<br />
+<div align="center">
   <img src="https://img.shields.io/badge/Java-EB2024?style=for-the-badge&logo=java">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-</p>
+</div>
 <br />
-
-<p style="text-align: center">
+<br />
+<div align="center">
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=KANG-IJ&show_icons=true&theme=dark&hide=stars"
@@ -53,4 +57,4 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=KANG-IJ&show_icons=true" />
   </picture>
-</p>
+</div>
