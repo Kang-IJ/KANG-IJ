@@ -39,7 +39,7 @@
 <div align="center">🛠 사용해 본 적 있는 언어 ⚒</div>
 <br />
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-EB2024?style=for-the-badge&logo=java">
+  <img src="https://img.shields.io/badge/Java-0074BD?style=for-the-badge&logo=java">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 </div>
