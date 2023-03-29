@@ -28,7 +28,7 @@
 </div>
 <br />
 
-<div align="center">🛠 프레임워크 ⚒</div>
+<div align="center">🛠 라이브러리 & 프레임워크 ⚒</div>
 <br />
 
 <div align="center">
