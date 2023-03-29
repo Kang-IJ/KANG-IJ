@@ -2,7 +2,7 @@
 
 ### <div align="center">안녕하세요 👋</div>
 
-<div align="center">Flutter 개발자가 되고싶은 강이조입니다! <br />
+<div align="center">개발자가 되고싶은 강이조입니다! <br />
 잘 부탁드립니다! 😊</p>
 </div>
 
